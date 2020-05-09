@@ -1,4 +1,4 @@
-**Multi-processes search binaries**
+**multi-process bin search**
 
 search-binaries.py is a fast command line program for searching fast binaries inside bin files.
 
